@@ -1,7 +1,7 @@
 {
   "name": "mercadolibre",
   "version": "1.0.0",
-  "description": "proyectoDH",
+  "description": "trabajoDH",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js",
